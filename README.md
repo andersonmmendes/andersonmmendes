@@ -1,4 +1,4 @@
-## Olá! Eu sou o Anderson Mendes.
+## Olá! Eu sou o Anderson. 😎💻
 
 <div>
   <a href="https://github.com/andersonmmendes">
