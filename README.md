@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Anderson. 😎💻
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=andersonmmendes)
 
 <div>
   <a href="https://github.com/andersonmmendes">
